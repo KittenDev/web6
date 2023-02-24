@@ -81,7 +81,7 @@
             //mengambil data dari file json
             $.getJSON('js/GameArticle.json', function (soup) {
                 var str = "<table border=1>";
-                str += "<tr><td>No</td><td>Gambar</td><td class='tables'>Judul Artikel</td><td class='tables'>Rignkasan</td></td></tr>";
+                str += "<tr><td>No</td><td>Gambar</td><td class='tables'>Judul Artikel</td><td class='tables'>Ringkasan</td></td></tr>";
                 $.each(soup, function (n, result) {
                     console.log(result);
                     str += "<td class='tables'>" + result.id + "</td>";
