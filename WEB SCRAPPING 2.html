@@ -80,14 +80,14 @@
         $(function () {
             $.getJSON('js/hasilscraping.json', function (soup) {
                 var str = "<table border=1>";
-                str += "<tr><td>No</td><td>Gambar</td><td class='tables'>Judul Film</td><td class='tables'>Tomato Meter</td><td class='tables'>Audience Score</td></tr>";
+                str += "<tr><td>No</td><td>Gambar</td><td class='tables'>Judul Film</td><td class='tables'>Tomato Meter</td><td class='tables'>Audience Score</td><td class='tables'>Opened</td></tr>";
                 $.each(soup, function (n, result) {
                     str += "<td class='tables'>" + result.id + "</td>";
-                    str += "<td class='tables'> <img src='" + result.thumb + "'></td>";
                     str += "<td class='Judul'>" + result.judul + "</td>";
                     str += "<td class='tm'>" + result.tm + "</td>";
                     str += "<td class='as'>" + result.as + "</td>";
                     str += "<td class='opened'>" + result.opened + "</td>";
+                    str += "<td class='tables'> <img src='" + result.thumb + "'></td>";
                     str += "</tr>";
                 });
                 str += "</table>";
