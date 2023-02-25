@@ -49,7 +49,8 @@
                         <div class="dropdown-menu text-capitalize">
                             <a href="webscrapping.html" class="dropdown-item">Web Scrapping</a>
                             <a href="testimonial.html" class="dropdown-item">Inspirator</a>
-                            <a href="webscrapping.html" class="dropdown-item">Web Scrapping</a>
+                            <a href="WEB SCRAPPING 1.html" class="dropdown-item">Web Scrapping 1</a>
+                            <a href="WEB SCRAPPING 2.html" class="dropdown-item">Web Scrapping 2</a>
                         </div>
                     </div>
                     <a href="contact.html" class="nav-item nav-link">Contact</a>
@@ -73,37 +74,26 @@
     </div>
     <!-- Page Header End -->
 
-    <!-- Reservation Start -->
-    <div class="container-fluid py-5">
-        <div class="container">
-            <div class="reservation position-relative overlay-top overlay-bottom">
-                <div class="row align-items-center">
-                    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-                    <script>
-                        $(function () {
-                            //mengambil data dari file json
-                            $.getJSON('js/GameArticle.json', function (soup) {
-                                var str = "<table border=1>";
-                                str += "<tr><td>No</td><td>Gambar</td><td class='tables'>Judul Artikel</td><td class='tables'>Ringkasan</td></td></tr>";
-                                $.each(soup, function (n, result) {
-                                    str += "<td class='tables'>" + result.id + "</td>";
-                                    str += "<td class='tables'> <img src='" + result.thumb + "'></td>";
-                                    str += "<td class='tokpedJudul'>" + result.judul + "</td>";
-                                    str += "<td class='tables'> <u>" + result.caption + "</u>";
-                                    str += "</tr>";
-                                });
-                                str += "</table>";
-                                $('#game').html(str);
-                            });
-                        });
-                    </script>
-                    </script>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Reservation End -->
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script>
+        $(function () {
+            //mengambil data dari file json
+            $.getJSON('js/GameArticle.json', function (soup) {
+            var str = "<table border=1>";
+            str += "<tr><td>No</td><td>Gambar</td><td class='tables'>Judul Artikel</td><td class='tables'>Ringkasan</td></td></tr>";
+                $.each(soup, function (n, result) {
+                    str += "<td class='tables'>" + result.id + "</td>";
+                    str += "<td class='tables'> <img src='" + result.thumb + "'></td>";
+                    str += "<td class='tokpedJudul'>" + result.judul + "</td>";
+                    str += "<td class='tables'> <u>" + result.caption + "</u>";
+                    tr += "</tr>";
+                });
+                str += "</table>";
+                $('#game').html(str);
+            });
+        });
+    </script>
+    </script>
 
     <!-- Footer Start -->
     <div class="container-fluid footer text-white mt-5 pt-5 px-0 position-relative overlay-top">

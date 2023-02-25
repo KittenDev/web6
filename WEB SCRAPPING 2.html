@@ -74,38 +74,27 @@
     </div>
     <!-- Page Header End -->
     
-
-    <!-- Reservation Start -->
-    <div class="container-fluid py-5">
-        <div class="container">
-            <div class="reservation position-relative overlay-top overlay-bottom">
-                <div class="row align-items-center">
-                    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-                    <script>
-                        $(function () {
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script>
+        $(function () {
 
                             //mengambil data dari file json
-                            $.getJSON('js/hasilscraping.json', function (soup) {
-                                var str = "<table border=1>";
-                                str += "<tr><td>No</td><td>Gambar</td><td class='tables'>Judul Artikel</td><td class='tables'>Ringkasan</td></td></tr>";
-                                $.each(soup, function (n, result) {
-                                    str += "<td class='tables'>" + result.id + "</td>";
-                                    str += "<td class='tables'> <img src='" + result.thumb + "'></td>";
-                                    str += "<td class='tokpedJudul'>" + result.judul + "</td>";
-                                    str += "<td class='tables'> <u>" + result.caption + "</u>";
-                                    str += "</tr>";
-                                });
-                                str += "</table>";
-                                $('#game').html(str);
-                            });
-                        });
-                    </script>
-                    </script>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Reservation End -->
+            $.getJSON('js/hasilscraping.json', function (soup) {
+                var str = "<table border=1>";
+                str += "<tr><td>No</td><td>Gambar</td><td class='tables'>Judul Artikel</td><td class='tables'>Ringkasan</td></td></tr>";
+                $.each(soup, function (n, result) {
+                    str += "<td class='tables'>" + result.id + "</td>";
+                    str += "<td class='tables'> <img src='" + result.thumb + "'></td>";
+                    str += "<td class='tokpedJudul'>" + result.judul + "</td>";
+                    str += "<td class='tables'> <u>" + result.caption + "</u>";
+                    str += "</tr>";
+                });
+                str += "</table>";
+                $('#game').html(str);
+            });
+        });
+    </script>
+    </script>
 
 
     <!-- Footer Start -->
