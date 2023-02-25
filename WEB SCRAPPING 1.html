@@ -80,7 +80,7 @@
         $(function () {
             $.getJSON('js/GameArticle.json', function (soup) {
             var str = "<table border=1>";
-            str += "<tr><td>No</td><td>Gambar</td><td class='tables'>Judul Artikel</td><td class='tables'>Ringkasan</td></td></tr>";
+            str += "<tr><td>No</td><td>Gambar</td><td class='tables'>Judul Artikel</td><td class='tables'>Ringkasan</td></tr>";
                 $.each(soup, function (n, result) {
                     str += "<td class='tables'>" + result.id + "</td>";
                     str += "<td class='tables'> <img src='" + result.thumb + "'></td>";
