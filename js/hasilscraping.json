@@ -1,225 +1,228 @@
 [
       {
+            "ScrappingDate": "26/02/2023, 01:52:43"
+      },
+      {
             "No": 1,
             "Judul": "Ant-Man and The Wasp: Quantumania",
-            "Tomato Meter": "48%",
-            "Audience Score": "83%",
+            "TomatoMeter": "48%",
+            "AudienceScore": "84%",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/fVrIldlpUM25DuWLZXNn2jwZSd4=/180x258/v2/https://resizing.flixster.com/_0Mhf0W_vdhwlaqOaUDX6JiReKA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE0OGY2MTIxLTE1MDEtNDI5YS1hYzVlLWYyMzExYjBmZTlhMC5qcGc="
       },
       {
             "No": 2,
             "Judul": "Cocaine Bear",
-            "Tomato Meter": "71%",
-            "Audience Score": "74%",
+            "TomatoMeter": "71%",
+            "AudienceScore": "73%",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/ZWfK4g9Hs3ap7o6ac5nxwS-gtPU=/180x258/v2/https://resizing.flixster.com/HyxB3a8sdK-y6fUI4akiNAT39KQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1YjM3YTg1LTg5YTgtNGUzNC1iMjFmLTJkMmIwNmQ1ZTk0YS5qcGc="
       },
       {
             "No": 3,
             "Judul": "Winnie-the-Pooh: Blood and Honey",
-            "Tomato Meter": "5%",
-            "Audience Score": "52%",
+            "TomatoMeter": "5%",
+            "AudienceScore": "52%",
             "Opened": "Feb 15, 2023",
             "Image": "https://resizing.flixster.com/3RA9AHYT0pC7wr-CDUFyEYxnzRU=/180x258/v2/https://resizing.flixster.com/x38YTTwZhjxXX8A24ZNCekdc2bc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiMTJlNDMwLTVjYmQtNDg4NS1hZGM3LTQ2MTMzNjZkM2VjMy5qcGc="
       },
       {
             "No": 4,
             "Judul": "Knock at the Cabin",
-            "Tomato Meter": "67%",
-            "Audience Score": "65%",
+            "TomatoMeter": "67%",
+            "AudienceScore": "65%",
             "Opened": "Feb 03, 2023",
             "Image": "https://resizing.flixster.com/Lns0SHw6z96u5-VGU9eRaQoitJA=/180x258/v2/https://resizing.flixster.com/5dJGA-d38uNrcR2nDq1UmVBRuHc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA4NDdmZDU3LWMxNTQtNDczOC04M2VkLTQzNzQ5NGVkODExZi5qcGc="
       },
       {
             "No": 5,
             "Judul": "Jesus Revolution",
-            "Tomato Meter": "56%",
-            "Audience Score": "99%",
+            "TomatoMeter": "56%",
+            "AudienceScore": "99%",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/dtd4eV2Pec2cdFlx5sl8mRE_K2s=/180x258/v2/https://resizing.flixster.com/FLuS1mtbLsmLtJCuxgvnN8PZ1Bg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU5ODQ1Y2M1LWY1MWEtNDIzOS04NDRjLTcwMTlkY2Q5MGE3NS5qcGc="
       },
       {
             "No": 6,
             "Judul": "The Whale",
-            "Tomato Meter": "65%",
-            "Audience Score": "91%",
+            "TomatoMeter": "65%",
+            "AudienceScore": "91%",
             "Opened": "Dec 21, 2022",
             "Image": "https://resizing.flixster.com/K3r_oqmOWxtEy3xJLFo7ZyisyvQ=/180x258/v2/https://resizing.flixster.com/k4O2dPmx9brEPScWUiuFiayMHpo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3ODEzY2Q4LTc4YWEtNDQ0OC1hNGQ0LTU0NGQzZWJjMzNhMy5qcGc="
       },
       {
             "No": 7,
             "Judul": "Infinity Pool",
-            "Tomato Meter": "87%",
-            "Audience Score": "51%",
+            "TomatoMeter": "87%",
+            "AudienceScore": "51%",
             "Opened": "Jan 27, 2023",
             "Image": "https://resizing.flixster.com/qRZqOlh8YL4FQvJphPiTy8ntzXI=/180x258/v2/https://resizing.flixster.com/P6s0RlGDQvFmVgWgdBbyuAZwHMU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFhZjcxYTQ3LTExY2UtNDUxNy05NTI5LWI2ZjhkMGY1ODg1MS5qcGc="
       },
       {
             "No": 8,
             "Judul": "Puss in Boots: The Last Wish",
-            "Tomato Meter": "95%",
-            "Audience Score": "94%",
+            "TomatoMeter": "95%",
+            "AudienceScore": "94%",
             "Opened": "Dec 21, 2022",
             "Image": "https://resizing.flixster.com/7TqHTXZS36wi0cPwfdLO3kQMXH0=/180x258/v2/https://resizing.flixster.com/vtIcjOYiM-QBXQyXhTFFgQoRkDw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JmNjM3ZTc2LTk5ZmMtNGJhNy04MDAzLWI3M2IxNmExNDNkYi5qcGc="
       },
       {
             "No": 9,
             "Judul": "The Banshees of Inisherin",
-            "Tomato Meter": "96%",
-            "Audience Score": "75%",
+            "TomatoMeter": "96%",
+            "AudienceScore": "75%",
             "Opened": "Nov 04, 2022",
             "Image": "https://resizing.flixster.com/g75SmYnr5OmzMH2poVBHMtkhQuc=/180x258/v2/https://resizing.flixster.com/SqYohHz5ela5G1qTZ8aKYunK2Oo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc4ZjI3ZDBiLTkwMDktNDVkZC1hZmI5LTJiNDdjNWRmZDVjOC5qcGc="
       },
       {
             "No": 10,
             "Judul": "M3GAN",
-            "Tomato Meter": "93%",
-            "Audience Score": "78%",
+            "TomatoMeter": "93%",
+            "AudienceScore": "78%",
             "Opened": "Jan 06, 2023",
             "Image": "https://resizing.flixster.com/VS-VVckP1gsqGPL8olacKHSryFA=/180x258/v2/https://resizing.flixster.com/rPJASTXFjLpmiVTi3D6RGcq-skM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhjYjA0ODBiLTNlNmUtNDlhOS05ZWRlLThlOGQ2MmEyZjlmYS5qcGc="
       },
       {
             "No": 11,
             "Judul": "Marlowe",
-            "Tomato Meter": "23%",
-            "Audience Score": "37%",
+            "TomatoMeter": "23%",
+            "AudienceScore": "38%",
             "Opened": "Feb 15, 2023",
             "Image": "https://resizing.flixster.com/lOZRhsEAfji18uXmhgmy7qUBAlw=/180x258/v2/https://resizing.flixster.com/Aq3M6jaYqks47M2Mog5BQpjdbI4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhmZWI3OWYyLWViOTQtNDYzMS1hZjVjLTMzNTM1ODkxNzhiOS5qcGc="
       },
       {
             "No": 12,
             "Judul": "Avatar: The Way of Water",
-            "Tomato Meter": "76%",
-            "Audience Score": "92%",
+            "TomatoMeter": "76%",
+            "AudienceScore": "92%",
             "Opened": "Dec 16, 2022",
             "Image": "https://resizing.flixster.com/vBbpscWVOg8oEI6mhx6l87Eegio=/180x258/v2/https://resizing.flixster.com/gWWM2Ov0VLAuazwELZCVc9grUQI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyMGM0ZDJiLWNmYjAtNGI3NS1hYTgzLTQ5YmU2ZjQwZWE0ZC5qcGc="
       },
       {
             "No": 13,
             "Judul": "Black Panther: Wakanda Forever",
-            "Tomato Meter": "84%",
-            "Audience Score": "94%",
+            "TomatoMeter": "84%",
+            "AudienceScore": "94%",
             "Opened": "Nov 11, 2022",
             "Image": "https://resizing.flixster.com/q-cbmseXvttzhL3h69gYmh55BQE=/180x258/v2/https://resizing.flixster.com/QJkeIM6LIvwmRGiLKrNBcpZIk8M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAwYzExZjlmLWJlODQtNDY4Mi1iNDhkLWU2YWNmMGIyMDgwMi5qcGc="
       },
       {
             "No": 14,
             "Judul": "Emily",
-            "Tomato Meter": "91%",
-            "Audience Score": "83%",
+            "TomatoMeter": "91%",
+            "AudienceScore": "83%",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/UwiNobPBvTNsIj14J4DCW1SDoGU=/180x258/v2/https://resizing.flixster.com/SKYj-nTZxPCuA0S2CYE-SrlHhhw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y5MjdmYjM4LWM0MjItNDI1OC04ODY0LTU1NDc4NmRlMzdhNi5qcGc="
       },
       {
             "No": 15,
             "Judul": "Plane",
-            "Tomato Meter": "77%",
-            "Audience Score": "94%",
+            "TomatoMeter": "77%",
+            "AudienceScore": "94%",
             "Opened": "Jan 13, 2023",
             "Image": "https://resizing.flixster.com/ciLKBI0yEQsSO3yDx7tVT-pMvLE=/180x258/v2/https://resizing.flixster.com/96gGzEOuV_fOYF8NKCANgRXH3SI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUzN2ViMzg3LWNjNGUtNDFjZC1hMzZiLTgyYWEwOWIzZTdlZi5qcGc="
       },
       {
             "No": 16,
             "Judul": "T\u00e1r",
-            "Tomato Meter": "91%",
-            "Audience Score": "73%",
+            "TomatoMeter": "91%",
+            "AudienceScore": "73%",
             "Opened": "Oct 28, 2022",
             "Image": "https://resizing.flixster.com/sye-r3JubXdjZ0hMghg9X1pmUJU=/180x258/v2/https://resizing.flixster.com/wFUHH4yTM6tmK4R-0f6pCrCPpB0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZGZjZWM1LTVkNmMtNDYzZC1iNjc0LTYwNDY0YTkzYTExYy5qcGc="
       },
       {
             "No": 17,
             "Judul": "The Fabelmans",
-            "Tomato Meter": "92%",
-            "Audience Score": "83%",
+            "TomatoMeter": "92%",
+            "AudienceScore": "83%",
             "Opened": "Nov 23, 2022",
             "Image": "https://resizing.flixster.com/c0UaF5wT35zDl_bCLSI6nAcvSus=/180x258/v2/https://resizing.flixster.com/sHWlKXB2LojbyFEGXuLICWYopdI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3Y2Y3MTk3LWZkMWUtNGNjNS04YzY0LWI0YjNlNDNmYTRhNC5qcGc="
       },
       {
             "No": 18,
             "Judul": "Missing",
-            "Tomato Meter": "87%",
-            "Audience Score": "90%",
+            "TomatoMeter": "87%",
+            "AudienceScore": "90%",
             "Opened": "Jan 20, 2023",
             "Image": "https://resizing.flixster.com/_oRGQEyYwctFP9JQCZOu1lg52nU=/180x258/v2/https://resizing.flixster.com/RTX_Ec72Imig92mBwROA1C-YFTE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzExOGNjY2MyLTg0MTctNDBmMS1hYTFhLWNmZWU5ZTVjNDg5NS5qcGc="
       },
       {
             "No": 19,
             "Judul": "Magic Mike's Last Dance",
-            "Tomato Meter": "49%",
-            "Audience Score": "74%",
+            "TomatoMeter": "49%",
+            "AudienceScore": "74%",
             "Opened": "Feb 10, 2023",
             "Image": "https://resizing.flixster.com/1rDwxiAlOeVPkIIwdiMgGYg7STQ=/180x258/v2/https://resizing.flixster.com/dSyi0qq5pZSCRC1VH_oo02R4QRE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRhMWZhYmFhLWFmODgtNDg1MC1hMTk5LWMwOTcyMDhjY2Y1YS5qcGc="
       },
       {
             "No": 20,
             "Judul": "A Man Called Otto",
-            "Tomato Meter": "69%",
-            "Audience Score": "97%",
+            "TomatoMeter": "69%",
+            "AudienceScore": "97%",
             "Opened": "Jan 13, 2023",
             "Image": "https://resizing.flixster.com/cl-UXaleuOg6S4cfDn7BkZvhRlg=/180x258/v2/https://resizing.flixster.com/l3hMOt6cWOpnE-s2f9ryvvFRwdM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQxYjJlNGIwLWE1YWMtNDU0NC05NDc3LTVkMTUwYWMyZGIyNy5qcGc="
       },
       {
             "No": 21,
             "Judul": "Of an Age",
-            "Tomato Meter": "87%",
-            "Audience Score": "88%",
+            "TomatoMeter": "87%",
+            "AudienceScore": "89%",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/nOZVsau7Dw105XoBcBt-sy1hc74=/180x258/v2/https://resizing.flixster.com/eLXac3RZa_zSEY_tLxgNrXPaVZM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRjNDNkNjIxLTliYmMtNGZkNy1iNTVmLWRkZjQxY2Y0MmQ4YS5qcGc="
       },
       {
             "No": 22,
             "Judul": "Triangle of Sadness",
-            "Tomato Meter": "72%",
-            "Audience Score": "70%",
+            "TomatoMeter": "72%",
+            "AudienceScore": "70%",
             "Opened": "Oct 07, 2022",
             "Image": "https://resizing.flixster.com/pdvdyM0Mg74gKFMcr9KN-36ORvs=/180x258/v2/https://resizing.flixster.com/z6ABTqY9Z_hs2mKAokadKfuTHyg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5NTZjNDYwLWFkNDgtNDhlZC05OWE5LWZlYzRhMjgwZDJjMC5qcGc="
       },
       {
             "No": 23,
             "Judul": "80 for Brady",
-            "Tomato Meter": "62%",
-            "Audience Score": "89%",
+            "TomatoMeter": "63%",
+            "AudienceScore": "89%",
             "Opened": "Feb 03, 2023",
             "Image": "https://resizing.flixster.com/87a9oPjNLBQT2jxitBaOBzk8L7Q=/180x258/v2/https://resizing.flixster.com/D7qwW_u23xMtpwTt78eNVmVLFuI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I4Mzk4ZTkzLTYzZjktNGI0My05OTYwLWIzZjIxMDkwMTQwNC5qcGc="
       },
       {
             "No": 24,
             "Judul": "Women Talking",
-            "Tomato Meter": "91%",
-            "Audience Score": "80%",
+            "TomatoMeter": "91%",
+            "AudienceScore": "80%",
             "Opened": "Jan 20, 2023",
             "Image": "https://resizing.flixster.com/gCVwVdEHVe2Xt3QbDbApgmfEkQs=/180x258/v2/https://resizing.flixster.com/YK7EnYmnlr7njPaqZ_x-mdAI86A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FmZDQxZTlhLTYyN2ItNDc5ZS04NjEzLWU2NmY3Y2JkNTkwMi5qcGc="
       },
       {
             "No": 25,
             "Judul": "Luther: The Fallen Sun",
-            "Tomato Meter": "65%",
-            "Audience Score": "--",
+            "TomatoMeter": "65%",
+            "AudienceScore": "80%",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/acLTpoS_R1pDX7XN7Xfv57n-Sgc=/180x258/v2/https://resizing.flixster.com/9q_BVSHUVmkP125mb65iFO7m29M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNkMjYyZTMwLTlkMWQtNDNlNC1hMjI4LTRiNjFjMDc3YmQ4OC5qcGc="
       },
       {
             "No": 26,
             "Judul": "EO",
-            "Tomato Meter": "96%",
-            "Audience Score": "70%",
+            "TomatoMeter": "96%",
+            "AudienceScore": "70%",
             "Opened": "Nov 18, 2022",
             "Image": "https://resizing.flixster.com/GNbMDo4oupyHsKq68rsSqIgHajs=/180x258/v2/https://resizing.flixster.com/_GiA2e44MiRL0qfNp__7fYjpCSo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JiOTVjODUxLTQ0MzMtNGQwMC04MDQ4LWEzN2U4MTA4Yjg3Mi5qcGc="
       },
       {
             "No": 27,
             "Judul": "We Have a Ghost",
-            "Tomato Meter": "44%",
-            "Audience Score": "68%",
+            "TomatoMeter": "45%",
+            "AudienceScore": "69%",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/LufQ9jyrLsXphR-ALxtJZmx8HEI=/180x258/v2/https://resizing.flixster.com/hO-raXJXlCYRfQiFsmw2LlP9STM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM3NmFhMDg4LWE3MmEtNDQ4OS05ZjBhLTUwMGY5ODkwY2I2NC5qcGc="
       },
       {
             "No": 28,
             "Judul": "Skinamarink",
-            "Tomato Meter": "71%",
-            "Audience Score": "44%",
+            "TomatoMeter": "71%",
+            "AudienceScore": "44%",
             "Opened": [
                   "",
                   " Jan 13, 2023"
@@ -229,48 +232,48 @@
       {
             "No": 29,
             "Judul": "Linoleum",
-            "Tomato Meter": "82%",
-            "Audience Score": "80%",
+            "TomatoMeter": "82%",
+            "AudienceScore": "83%",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/JLCsVZl_vbKJf6uaI1SyIRaCe4Y=/180x258/v2/https://resizing.flixster.com/ZAaN9kYuYV5A0DghHdHftT6FkOQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg5NDhiNGNkLTZiMDgtNGY2NC04ODVhLTk3N2U1ZTAyNmZhMy5qcGc="
       },
       {
             "No": 30,
             "Judul": "Juniper",
-            "Tomato Meter": "92%",
-            "Audience Score": "78%",
+            "TomatoMeter": "92%",
+            "AudienceScore": "79%",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/Su8V8sBhpcdWsR0T5whtxagLOtM=/180x258/v2/https://resizing.flixster.com/BgJdMzZPG91khbIuF9G27vO6UbM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RkODVmZTg1LTRkNWItNDUxZi04ZjYyLWYwODJmYmQzNjQ1ZS5qcGc="
       },
       {
             "No": 31,
             "Judul": "Living",
-            "Tomato Meter": "96%",
-            "Audience Score": "87%",
+            "TomatoMeter": "96%",
+            "AudienceScore": "87%",
             "Opened": "Dec 23, 2022",
             "Image": "https://resizing.flixster.com/ANRpSjRiEoRZXnJxLXgTUa6yqew=/180x258/v2/https://resizing.flixster.com/M34yKDaJFaEss3V9A0qibNdgcRQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MzMDVlYmZmLTlmNDUtNDU2Yy1iNmQ5LTYxMWFiNDMxNDc2Mi5qcGc="
       },
       {
             "No": 32,
             "Judul": "Hidden Blade",
-            "Tomato Meter": "69%",
-            "Audience Score": "98%",
+            "TomatoMeter": "69%",
+            "AudienceScore": "98%",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/KVHkPdQ5IkAtSGKG8H1fJB2rKu4=/180x258/v2/https://resizing.flixster.com/t3XE1dXtCSQKNvr-ng9UAZUKWYw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM1MzEwNmZiLWQwMTUtNDA2ZS04ZTdhLWY5MTA0NTg1YmM2Ny5qcGc="
       },
       {
             "No": 33,
             "Judul": "The Other Fellow",
-            "Tomato Meter": "100%",
-            "Audience Score": "--",
+            "TomatoMeter": "100%",
+            "AudienceScore": "--",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/R7S_OE8Y7HgvcoLBD_2yTmMQkYQ=/180x258/v2/https://resizing.flixster.com/q0xYBTN9h17-_6jxCI3RrHaSYWA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzYTA3MDQwLTI0ZmItNDJhMS04NTkzLTAwOGRkYTZiODgwOS5qcGc="
       },
       {
             "No": 34,
             "Judul": "The Integrity of Joseph Chambers",
-            "Tomato Meter": "88%",
-            "Audience Score": "71%",
+            "TomatoMeter": "88%",
+            "AudienceScore": "71%",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -280,48 +283,48 @@
       {
             "No": 35,
             "Judul": "RRR",
-            "Tomato Meter": "95%",
-            "Audience Score": "94%",
+            "TomatoMeter": "95%",
+            "AudienceScore": "94%",
             "Opened": "Mar 25, 2022",
             "Image": "https://resizing.flixster.com/euxnzVvVjbUH6-9yT30S-R9xjow=/180x258/v2/https://resizing.flixster.com/BN4S6kzfD9ZbvanjxBmNLYNquLU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E2ZTQxYzhkLTFhNTItNDhkMy05ZjA3LTBmYzhjYTc2NWQyMi5qcGc="
       },
       {
             "No": 36,
             "Judul": "Pathaan",
-            "Tomato Meter": "85%",
-            "Audience Score": "78%",
+            "TomatoMeter": "85%",
+            "AudienceScore": "78%",
             "Opened": "Jan 25, 2023",
             "Image": "https://resizing.flixster.com/b3icNVjNdQqG19ASSfhFO2nnUGw=/180x258/v2/https://resizing.flixster.com/QnjlMcBlxq64Y5rT1IiYcdPQdhQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI2OWNlNjU4LTg2NDMtNGI5Zi05YjU5LTk5MjJkOWZjMWUwZi5qcGc="
       },
       {
             "No": 37,
             "Judul": "The Son",
-            "Tomato Meter": "29%",
-            "Audience Score": "65%",
+            "TomatoMeter": "28%",
+            "AudienceScore": "65%",
             "Opened": "Nov 25, 2022",
             "Image": "https://resizing.flixster.com/USiLcf7JEyVs3uqUQ6JCC1DAjlw=/180x258/v2/https://resizing.flixster.com/0bZrUyKps3_aVxiwTzdzhfnFjVM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc4ZWM2ZDZkLTBjMTgtNDFmNS04NTZlLTNjODE0NTg1MDVhMy5qcGc="
       },
       {
             "No": 38,
             "Judul": "Titanic",
-            "Tomato Meter": "88%",
-            "Audience Score": "69%",
+            "TomatoMeter": "88%",
+            "AudienceScore": "69%",
             "Opened": "Dec 19, 1997",
             "Image": "https://resizing.flixster.com/ilblrNkTrqYtfsXbLfXkh400-cw=/180x258/v2/https://resizing.flixster.com/j1q6PHK0ZtbdABMQcflU-wH5-eE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y1NGZmNWMyLTczMGUtNDViMS04NzdmLTRiODZiMDM0YWMwOS5qcGc="
       },
       {
             "No": 39,
             "Judul": "The Wandering Earth II",
-            "Tomato Meter": "78%",
-            "Audience Score": "97%",
+            "TomatoMeter": "78%",
+            "AudienceScore": "97%",
             "Opened": "Jan 22, 2023",
             "Image": "https://resizing.flixster.com/zlD4un1lyZKfobQtJx_fIUzXa2I=/180x258/v2/https://resizing.flixster.com/4Amw5DarTewVaEaEG_JfHixVsWc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhYzU3MzNkLWM3ZGEtNGI2Ny05YWJhLWZjMTI1NGZjZTljMC5qcGc="
       },
       {
             "No": 40,
             "Judul": "Lonesome",
-            "Tomato Meter": "100%",
-            "Audience Score": "--",
+            "TomatoMeter": "100%",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -331,56 +334,56 @@
       {
             "No": 41,
             "Judul": "Return to Seoul",
-            "Tomato Meter": "97%",
-            "Audience Score": "55%",
+            "TomatoMeter": "97%",
+            "AudienceScore": "55%",
             "Opened": "Dec 02, 2022",
             "Image": "https://resizing.flixster.com/HxtNKABhUB2Ei19DujBglv4oZeM=/180x258/v2/https://resizing.flixster.com/jZNL2qncn2kr9JQMA1-L76K98cw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y2ODA0MGRhLWZhNWItNDIwYy05MzY3LTczZjVmMDcyMzM0Ni5qcGc="
       },
       {
             "No": 42,
             "Judul": "Shehzada",
-            "Tomato Meter": "33%",
-            "Audience Score": "60%",
+            "TomatoMeter": "33%",
+            "AudienceScore": "60%",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/aPZBSoGLPEnT2VfvqWRB9jEhOws=/180x258/v2/https://resizing.flixster.com/UaTmNLTl1hJjEXnwkbvyTzq48Lo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcxMGZmMTVjLTFiYmMtNDVmZC05YjIwLWM2NThmZjVlYzNlYS5qcGc="
       },
       {
             "No": 43,
             "Judul": "Violent Night",
-            "Tomato Meter": "73%",
-            "Audience Score": "88%",
+            "TomatoMeter": "73%",
+            "AudienceScore": "88%",
             "Opened": "Dec 02, 2022",
             "Image": "https://resizing.flixster.com/dQ-UpvAcf0wjFf86LzWf2jhH2VY=/180x258/v2/https://resizing.flixster.com/nifeYuz3wPgP583Gtef3bTSwfI0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRjMjhmYTMwLWViM2EtNDZjYy1iMWRmLTAxNmQ3MzZiMTUyNS5qcGc="
       },
       {
             "No": 44,
             "Judul": "God's Time",
-            "Tomato Meter": "53%",
-            "Audience Score": "92%",
+            "TomatoMeter": "53%",
+            "AudienceScore": "93%",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/I2d5O0_5m8Efp8BQrpJ7AiWFKiQ=/180x258/v2/https://resizing.flixster.com/WPdnlkiqSy6Eeh6mUxYEmF4CyXU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3MjJlMGRiLTk1NzEtNDNjNC1hN2QzLTg3MWQyYThkM2NhMi5qcGc="
       },
       {
             "No": 45,
             "Judul": "Fire of Love",
-            "Tomato Meter": "98%",
-            "Audience Score": "84%",
+            "TomatoMeter": "98%",
+            "AudienceScore": "84%",
             "Opened": "Jul 06, 2022",
             "Image": "https://resizing.flixster.com/GpL1zcOBvPKBg05RyZmico-02Hg=/180x258/v2/https://resizing.flixster.com/CnejgHf8a-sSiIYw8cnnSHk8hb8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiODJmNGQzLWY4ZDMtNDU0MC04YzdhLTUxZmI2MzFlZDNhMC5qcGc="
       },
       {
             "No": 46,
             "Judul": "Ambush",
-            "Tomato Meter": "13%",
-            "Audience Score": "--",
+            "TomatoMeter": "22%",
+            "AudienceScore": "--",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/TANJras9SscauQ1TYm1Q5-OTxow=/180x258/v2/https://flxt.tmsimg.com/assets/p23782509_p_v13_aa.jpg"
       },
       {
             "No": 47,
             "Judul": "Pacifiction",
-            "Tomato Meter": "85%",
-            "Audience Score": "--",
+            "TomatoMeter": "85%",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -390,32 +393,32 @@
       {
             "No": 48,
             "Judul": "Bunker",
-            "Tomato Meter": "17%",
-            "Audience Score": "--",
+            "TomatoMeter": "17%",
+            "AudienceScore": "--",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/oSidwOXh4_1nIuHQfI3q7u-vxMM=/180x258/v2/https://resizing.flixster.com/fWrEUS4VwHd4A5p5srlykuB5F5A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc0N2Q5NWYzLTAwZWQtNGU0NS04MDc0LTFhMTBlYjk3NTk5OS5qcGc="
       },
       {
             "No": 49,
             "Judul": "A Radiant Girl",
-            "Tomato Meter": "88%",
-            "Audience Score": "--",
+            "TomatoMeter": "88%",
+            "AudienceScore": "--",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/kCiA_HMp0vfBLoKvUDYJ-JJNVeU=/180x258/v2/https://resizing.flixster.com/-IWZmuYFtdfcHVhk-VIXM2X3vkQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUzYjc3ODM1LWU1ODMtNDliYy04NmIwLWFkYmRhNmYxMzM1Yy5qcGc="
       },
       {
             "No": 50,
             "Judul": "The Weapon",
-            "Tomato Meter": "--",
-            "Audience Score": "33%",
+            "TomatoMeter": "--",
+            "AudienceScore": "33%",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/ExSqEdZQxMpMWnVAEB9K_7hbJ8A=/180x258/v2/https://resizing.flixster.com/G22vNW-mAHOjum6cdOz7osK-61k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE4MmNjZjc3LWMwNjMtNDk2ZS1hM2ZhLTBjYWQwY2Q1YzEwOS5qcGc="
       },
       {
             "No": 51,
             "Judul": "Mummies",
-            "Tomato Meter": "60%",
-            "Audience Score": "--",
+            "TomatoMeter": "60%",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 24, 2023"
@@ -425,32 +428,32 @@
       {
             "No": 52,
             "Judul": "No Bears",
-            "Tomato Meter": "100%",
-            "Audience Score": "89%",
+            "TomatoMeter": "100%",
+            "AudienceScore": "89%",
             "Opened": "Dec 23, 2022",
             "Image": "https://resizing.flixster.com/-81GLTPBLJDjPA6hWNLmRs3pC-Y=/180x258/v2/https://resizing.flixster.com/oUBxvoxvFBE_kqBF26yH2Yh3s6w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0YTJlZmQxLTg5MDktNDlhNi04MDlhLWE5NmU1NmFiN2U4Ni5qcGc="
       },
       {
             "No": 53,
             "Judul": "Crouching Tiger, Hidden Dragon",
-            "Tomato Meter": "98%",
-            "Audience Score": "86%",
+            "TomatoMeter": "98%",
+            "AudienceScore": "86%",
             "Opened": "Dec 22, 2000",
             "Image": "https://resizing.flixster.com/b8nHdg05_LgyziL295UrFuaovKg=/180x258/v2/https://flxt.tmsimg.com/assets/p25570_p_v8_av.jpg"
       },
       {
             "No": 54,
             "Judul": "All the Beauty and the Bloodshed",
-            "Tomato Meter": "95%",
-            "Audience Score": "48%",
+            "TomatoMeter": "95%",
+            "AudienceScore": "49%",
             "Opened": "Nov 23, 2022",
             "Image": "https://resizing.flixster.com/MAkhvSl3g-3IMmHuhQT4NZUY6z0=/180x258/v2/https://resizing.flixster.com/lygXoCf_M0WByVqFLAdZ96SdKEk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVjOTY1MmM1LTNjZTgtNDUzYS1hMWQyLWExYzEzMDhiZTNkZi5qcGc="
       },
       {
             "No": 55,
             "Judul": "The Confession Musical",
-            "Tomato Meter": "--",
-            "Audience Score": "100%",
+            "TomatoMeter": "--",
+            "AudienceScore": "100%",
             "Opened": [
                   "",
                   " Feb 20, 2023"
@@ -460,112 +463,112 @@
       {
             "No": 56,
             "Judul": "My Happy Ending",
-            "Tomato Meter": "40%",
-            "Audience Score": "--",
+            "TomatoMeter": "40%",
+            "AudienceScore": "--",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/mMJWHTQ1sULXyqMZ0-vhIhhOjVw=/180x258/v2/https://resizing.flixster.com/dpWL30t32cmMDwlxKt8UrxLyRoE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QyZDJiZTgwLTZmMWItNGM3Mi05OTRmLWRhMzZmYWE3ZjAyMi5qcGc="
       },
       {
             "No": 57,
             "Judul": "Devil's Peak",
-            "Tomato Meter": "42%",
-            "Audience Score": "--",
+            "TomatoMeter": "42%",
+            "AudienceScore": "--",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/EbF8DiDFHkdFyaQb8nGRTmSzpfo=/180x258/v2/https://resizing.flixster.com/SpOuq3iL3TOwKNpSibmK8UMmRuE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBhZjIwZjEwLTRkZGYtNDk2ZC04N2JhLWY3ZjE1ZWY4OTQwNy5qcGc="
       },
       {
             "No": 58,
             "Judul": "Kaguya-sama: Love Is War - The First Kiss that Never Ends",
-            "Tomato Meter": "--",
-            "Audience Score": "100%",
+            "TomatoMeter": "--",
+            "AudienceScore": "100%",
             "Opened": "Feb 14, 2023",
             "Image": "https://resizing.flixster.com/UNMqfLLK3xj7CWMBf7u8XcSmh5M=/180x258/v2/https://resizing.flixster.com/UaeZJ6PHFNacOWiYma2QDnyJkG4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY3MzA0ODk4LWMxZmItNDk2MS1iOWNmLWZhMDE0NTAyZDE5Yi5qcGc="
       },
       {
             "No": 59,
             "Judul": "Full Time",
-            "Tomato Meter": "98%",
-            "Audience Score": "100%",
+            "TomatoMeter": "98%",
+            "AudienceScore": "100%",
             "Opened": "Feb 03, 2023",
             "Image": "https://resizing.flixster.com/G4XMcPdBvEyLNi0FSU5uBm-apfU=/180x258/v2/https://resizing.flixster.com/h_aaDNAfYMm_6CkhI4fjEcmzZDU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M4OTFmYzVkLWZlZDktNDY0Ni04MjBkLTA0MTFiMGI0NmQ1ZS5qcGc="
       },
       {
             "No": 60,
             "Judul": "Baby Ruby",
-            "Tomato Meter": "69%",
-            "Audience Score": "--",
+            "TomatoMeter": "69%",
+            "AudienceScore": "--",
             "Opened": "Feb 03, 2023",
             "Image": "https://resizing.flixster.com/cMACfS1SD8nEpLLULXsAKJBDXQ0=/180x258/v2/https://resizing.flixster.com/jR_YNcI7KeB3TR6HdzQnuYJkNl4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQwYjkwZDRmLWQ1MWUtNGRjZC1hZTcyLTY2OWZlZDc4MjM0MS5wbmc="
       },
       {
             "No": 61,
             "Judul": "Corsage",
-            "Tomato Meter": "86%",
-            "Audience Score": "59%",
+            "TomatoMeter": "86%",
+            "AudienceScore": "59%",
             "Opened": "Dec 23, 2022",
             "Image": "https://resizing.flixster.com/Qq_yxSo6jtnwbG9b98gr5yLGNTk=/180x258/v2/https://resizing.flixster.com/yyxVyKHQxrk4Xvdpo9kuZ7-T3Ls=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NmOTkzYjhkLWI1YjItNGMzMS04NzA5LWFmZDg1MDBkYTU3ZC5qcGc="
       },
       {
             "No": 62,
             "Judul": "One Fine Morning",
-            "Tomato Meter": "92%",
-            "Audience Score": "71%",
+            "TomatoMeter": "92%",
+            "AudienceScore": "71%",
             "Opened": "Dec 09, 2022",
             "Image": "https://resizing.flixster.com/g0O5rqC47PyDYxUijifyWyNt9Xo=/180x258/v2/https://resizing.flixster.com/uNtJQj5P_ORimbS6jRGXy2VSGZg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlNGYzOWI0LWQ3ZjctNGRlMC1hNzI4LTI5NDk0Y2MyNzRiOS5qcGc="
       },
       {
             "No": 63,
             "Judul": "The First Fallen",
-            "Tomato Meter": "100%",
-            "Audience Score": "--",
+            "TomatoMeter": "100%",
+            "AudienceScore": "--",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/MTnCG2VU1JqUcwF8h_8SKvWPcRc=/180x258/v2/https://resizing.flixster.com/NZzafjtoBApaI4Q7unWH9NhHp90=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiZWZjY2IyLWEwM2YtNGVlNy05N2I4LTA5NmM1MWM5MDY4ZC5qcGc="
       },
       {
             "No": 64,
             "Judul": "Consecration",
-            "Tomato Meter": "38%",
-            "Audience Score": "32%",
+            "TomatoMeter": "39%",
+            "AudienceScore": "32%",
             "Opened": "Feb 10, 2023",
             "Image": "https://resizing.flixster.com/Q-RJt2HFPuVkDU3WQzj7S6bFZXI=/180x258/v2/https://resizing.flixster.com/4jF5-LlLJbewsr_Vh4JbpBIfFBk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhkYWI2NTk2LTQyMzUtNDdkNi04N2U5LTcyMjRiOGUyNThiMy5qcGc="
       },
       {
             "No": 65,
             "Judul": "House Party",
-            "Tomato Meter": "28%",
-            "Audience Score": "60%",
+            "TomatoMeter": "28%",
+            "AudienceScore": "60%",
             "Opened": "Jan 13, 2023",
             "Image": "https://resizing.flixster.com/03a2ipAR466CAIBF0dZeZVAJfyY=/180x258/v2/https://resizing.flixster.com/0TL7sj2wtlYft1rd39GkrOvtNRk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y2NWNhYWYwLWFhNmQtNGRmOS05YTY3LWE0NTA0MGU1ZDRmOC5qcGc="
       },
       {
             "No": 66,
             "Judul": "88",
-            "Tomato Meter": "53%",
-            "Audience Score": "--",
+            "TomatoMeter": "53%",
+            "AudienceScore": "--",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/JbX7A1HDKFGqNtSgIM5KeKjc1Rg=/180x258/v2/https://resizing.flixster.com/U8PYsGdq08t6BRW9InCOLRpM4q4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyZWM0YTkxLWI5MmYtNGFiMS1hZTU2LTE1NDE0MDZmYTQ0MC5qcGc="
       },
       {
             "No": 67,
             "Judul": "Turn Every Page: The Adventures of Robert Caro and Robert Gottlieb",
-            "Tomato Meter": "96%",
-            "Audience Score": "100%",
+            "TomatoMeter": "96%",
+            "AudienceScore": "100%",
             "Opened": "Dec 30, 2022",
             "Image": "https://resizing.flixster.com/sGy1nW4YkfNNOvj9clQlE2pNixI=/180x258/v2/https://resizing.flixster.com/04X6srMqsfY2Gj0XGMvYFwkB0fk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc1ZGE4NTJhLTY4N2QtNGI1MC1hMTcwLTk3ZDFkZmVjMWViYS5qcGc="
       },
       {
             "No": 68,
             "Judul": "Fear",
-            "Tomato Meter": "22%",
-            "Audience Score": "36%",
+            "TomatoMeter": "22%",
+            "AudienceScore": "36%",
             "Opened": "Jan 27, 2023",
             "Image": "https://resizing.flixster.com/WPZdLtVyfqK9X1yrCGdp7WLuVMo=/180x258/v2/https://resizing.flixster.com/gzBhqIv6VeNxB5uuVX8FYybHuqM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg3NWFlZmQ2LWU5ZWUtNGUwMC04N2FhLWZlMDhjZTFkYTZkZC5qcGc="
       },
       {
             "No": 69,
             "Judul": "The Year of the Dog",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 24, 2023"
@@ -575,16 +578,16 @@
       {
             "No": 70,
             "Judul": "Heart of a Champion",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": "Feb 17, 2023",
             "Image": "https://resizing.flixster.com/G5VZhw5a9uIqbeNCRaMVN1a1gjE=/180x258/v2/https://resizing.flixster.com/cWJ5YNd9nI3QhPjcNW-8aecFsfM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiODVjMzdjLTAyMjQtNGIxOC1hM2Q5LWZhMDU1NDY3YjJiMS5qcGc="
       },
       {
             "No": 71,
             "Judul": "Irr\u00e9versible",
-            "Tomato Meter": "58%",
-            "Audience Score": "80%",
+            "TomatoMeter": "58%",
+            "AudienceScore": "80%",
             "Opened": [
                   "",
                   " Mar 14, 2003"
@@ -594,8 +597,8 @@
       {
             "No": 72,
             "Judul": "Who Are You People",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 24, 2023"
@@ -605,8 +608,8 @@
       {
             "No": 73,
             "Judul": "The First Step",
-            "Tomato Meter": "87%",
-            "Audience Score": "--",
+            "TomatoMeter": "87%",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -616,16 +619,16 @@
       {
             "No": 74,
             "Judul": "Utama",
-            "Tomato Meter": "96%",
-            "Audience Score": "83%",
+            "TomatoMeter": "96%",
+            "AudienceScore": "83%",
             "Opened": "Nov 04, 2022",
             "Image": "https://resizing.flixster.com/wcqPTecjXneQ2NdfCfnMbkjiXB0=/180x258/v2/https://resizing.flixster.com/pEhRPQOLczjpkKTPBndW5JVC1ug=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBkMmNiMjY3LWM1MzEtNDQ5MS1hODYzLWNhNjQ1YzlhM2ZlNS5qcGc="
       },
       {
             "No": 75,
             "Judul": "Eating Miss Campbell",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 16, 2023"
@@ -635,16 +638,16 @@
       {
             "No": 76,
             "Judul": "Let It Be Morning",
-            "Tomato Meter": "88%",
-            "Audience Score": "--",
+            "TomatoMeter": "88%",
+            "AudienceScore": "--",
             "Opened": "Feb 03, 2023",
             "Image": "https://resizing.flixster.com/FRSsrH96RHuSUR30vKso6alaxRo=/180x258/v2/https://resizing.flixster.com/01YSZc45PEXB24B3vkQa_md3XS0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI1MzFhNWZlLWQxNTYtNDllYy1hY2E3LTYwZjkyODMxN2U2Zi5qcGc="
       },
       {
             "No": 77,
             "Judul": "2023 Oscar Nominated Shorts - Live Action",
-            "Tomato Meter": "71%",
-            "Audience Score": "--",
+            "TomatoMeter": "71%",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -654,8 +657,8 @@
       {
             "No": 78,
             "Judul": "Ping Pong: The Triumph",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -665,16 +668,16 @@
       {
             "No": 79,
             "Judul": "Selfiee",
-            "Tomato Meter": "29%",
-            "Audience Score": "--",
+            "TomatoMeter": "29%",
+            "AudienceScore": "--",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/d2IU3pTY-wI9-8qvdE9t8vr2t_I=/180x258/v2/https://resizing.flixster.com/K7dD36NdrpCgfz-AI8WILpafHxQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y4MWNhNmRkLTU2NGEtNGUwOS1hZTA4LWRlOTFiMmZkOWM5ZC5qcGc="
       },
       {
             "No": 80,
             "Judul": "Fulbari",
-            "Tomato Meter": "--",
-            "Audience Score": "80%",
+            "TomatoMeter": "--",
+            "AudienceScore": "80%",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -684,16 +687,16 @@
       {
             "No": 81,
             "Judul": "Cat Daddies",
-            "Tomato Meter": "86%",
-            "Audience Score": "88%",
+            "TomatoMeter": "86%",
+            "AudienceScore": "88%",
             "Opened": "Oct 14, 2022",
             "Image": "https://resizing.flixster.com/KqpQpOE25AhiVkEwDcjfmpA8GbE=/180x258/v2/https://resizing.flixster.com/c-3XvHz2r63Nk_x-yChE4T6Ln5g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ3MGQ3OWI0LTdhYzYtNDUxNS04NDg5LTRhZGI4ODkzYWRmMy5qcGc="
       },
       {
             "No": 82,
             "Judul": "2023 Oscar Nominated Shorts - Animation",
-            "Tomato Meter": "100%",
-            "Audience Score": "--",
+            "TomatoMeter": "100%",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -703,24 +706,24 @@
       {
             "No": 83,
             "Judul": "Path of the Panther",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/bwkvz6YnuN9XO77zVlmNVCseiJg=/180x258/v2/https://resizing.flixster.com/Eij4qa2jEhzggoW01h5D70VqzZE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE0MmZiYTM0LTNmMjItNDI0Ni05ZmYzLWRjZjExZTA5YTc4NC5qcGc="
       },
       {
             "No": 84,
             "Judul": "The Conformist",
-            "Tomato Meter": "98%",
-            "Audience Score": "90%",
+            "TomatoMeter": "98%",
+            "AudienceScore": "90%",
             "Opened": "Oct 22, 1970",
             "Image": "https://resizing.flixster.com/JzGOxc6Jnin06tFmzL_DPCbEYuA=/180x258/v2/https://resizing.flixster.com/w3imlmkmssTUGEdh71NOpNWY33A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdmMDNmMDUxLTVkYmEtNDVmYS1iNGExLTcxYjdiMTkxZDMzNC5qcGc="
       },
       {
             "No": 85,
             "Judul": "2023 Oscar Nominated Shorts - Documentary",
-            "Tomato Meter": "86%",
-            "Audience Score": "83%",
+            "TomatoMeter": "86%",
+            "AudienceScore": "83%",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -730,8 +733,8 @@
       {
             "No": 86,
             "Judul": "Dancing the Twist in Bamako",
-            "Tomato Meter": "86%",
-            "Audience Score": "--",
+            "TomatoMeter": "86%",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 24, 2023"
@@ -741,8 +744,8 @@
       {
             "No": 87,
             "Judul": "Enkilum Chandrike",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -752,8 +755,8 @@
       {
             "No": 88,
             "Judul": "The Trial",
-            "Tomato Meter": "85%",
-            "Audience Score": "87%",
+            "TomatoMeter": "85%",
+            "AudienceScore": "87%",
             "Opened": [
                   "",
                   " Dec 21, 1962"
@@ -763,8 +766,8 @@
       {
             "No": 89,
             "Judul": "Only in Theaters",
-            "Tomato Meter": "91%",
-            "Audience Score": "93%",
+            "TomatoMeter": "91%",
+            "AudienceScore": "93%",
             "Opened": [
                   "",
                   " Nov 18, 2022"
@@ -774,16 +777,16 @@
       {
             "No": 90,
             "Judul": "Cinema Sabaya",
-            "Tomato Meter": "90%",
-            "Audience Score": "--",
+            "TomatoMeter": "90%",
+            "AudienceScore": "--",
             "Opened": "Feb 10, 2023",
             "Image": "https://resizing.flixster.com/a-DUJi7bfKfZEKisVKcJhAEwLbE=/180x258/v2/https://resizing.flixster.com/z4xZi8mh5SmaZz91-z20D6kgJ3A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ2ODUwNzA0LTIxYjctNGQzMi1hOTYwLWI2NGEwOGIxNDljZi5qcGc="
       },
       {
             "No": 91,
             "Judul": "Vinaro Bhagyamu Vishnu Katha",
-            "Tomato Meter": "--",
-            "Audience Score": "80%",
+            "TomatoMeter": "--",
+            "AudienceScore": "80%",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -793,16 +796,16 @@
       {
             "No": 92,
             "Judul": "Out of Time: The Material Issue Story",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": "Feb 24, 2023",
             "Image": "https://resizing.flixster.com/U6NZJNH_zkJkdb_esSops0vwXbI=/180x258/v2/https://resizing.flixster.com/F-wxSgLvweh-b2vfiORGweg6M1k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhMzdjMjA2LTkzYWUtNGVlNC05ODg3LTgwNTcxNmFlY2FlNS5qcGc="
       },
       {
             "No": 93,
             "Judul": "Golgappe",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -812,24 +815,24 @@
       {
             "No": 94,
             "Judul": "Framing Agnes",
-            "Tomato Meter": "80%",
-            "Audience Score": "--",
+            "TomatoMeter": "80%",
+            "AudienceScore": "--",
             "Opened": "Dec 02, 2022",
             "Image": "https://resizing.flixster.com/c-OTx7mwZ0Fp2Oe0fSXLNhhHiUc=/180x258/v2/https://resizing.flixster.com/uAim3rcBWN6qbjlgZ5GUQiDkhYQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MyNWU2YWY2LTM0YWYtNGE0Yi05ZGIxLTFhNDNiYjkwNGY5OS5qcGc="
       },
       {
             "No": 95,
             "Judul": "Leonor Will Never Die",
-            "Tomato Meter": "91%",
-            "Audience Score": "88%",
+            "TomatoMeter": "91%",
+            "AudienceScore": "88%",
             "Opened": "Nov 25, 2022",
             "Image": "https://resizing.flixster.com/v-IiNbEc2FXfMX03PqHqDdmB6ns=/180x258/v2/https://resizing.flixster.com/Ur60QHkxKyHdmeNYzFO0xp7AQ3w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg3MDg5ZjljLTI0MGYtNDBiZi04ZmJiLTYwZmUxNzQxZWQzMS5qcGc="
       },
       {
             "No": 96,
             "Judul": "Christy",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -839,8 +842,8 @@
       {
             "No": 97,
             "Judul": "Northern Shade",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 24, 2023"
@@ -850,8 +853,8 @@
       {
             "No": 98,
             "Judul": "Bakasuran",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 17, 2023"
@@ -861,8 +864,8 @@
       {
             "No": 99,
             "Judul": "The Super 8 Years",
-            "Tomato Meter": "94%",
-            "Audience Score": "--",
+            "TomatoMeter": "94%",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Dec 16, 2022"
@@ -872,8 +875,8 @@
       {
             "No": 100,
             "Judul": "Ji Wife Ji",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 24, 2023"
@@ -883,8 +886,8 @@
       {
             "No": 101,
             "Judul": "Crown",
-            "Tomato Meter": "--",
-            "Audience Score": "--",
+            "TomatoMeter": "--",
+            "AudienceScore": "--",
             "Opened": [
                   "",
                   " Feb 17, 2023"
