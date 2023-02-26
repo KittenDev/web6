@@ -86,11 +86,11 @@
                 $.each(soup, function (n, result) {
                     if (i != 1) {
                         str += "<td class='tables'>" + result.No + "</td>";
+                        str += "<td class='tables'> <img src='" + result.Image + "'></td>";
                         str += "<td class='Judul'>" + result.Judul + "</td>";
                         str += "<td class='tm'>" + result.TomatoMeter + "</td>";
                         str += "<td class='as'>" + result.AudienceScore + "</td>";
                         str += "<td class='opened'>" + result.Opened + "</td>";
-                        str += "<td class='tables'> <img src='" + result.Image + "'></td>";
                         str += "</tr>";
                     }
                     i += 1;
